@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Base/RCTErrorCustomizer.h \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/xiaomei/Desktop/reactnative/cute/node_modules/react-native/React/Executors/RCTJSCWrapper.h
